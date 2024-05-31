@@ -1,5 +1,6 @@
 table{
     background-color: black;
+    text-align: center;
 }
 tr{
     background: darkgrey;
@@ -8,3 +9,8 @@ tr{
 th{
     background-color: grey;
 }
+
+td{
+    width: 150px;
+}
+
